@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\ENCHOU\source\repos\CFD_03_Lid-Driven-Cavity\CFD_03_Lid-Driven-Cavity\CFD_03_Lid-Driven-Cavity\Source.cpp(40,6): warning C4101: 'i': 未參考的區域變數
+  CFD_03_Lid-Driven-Cavity.vcxproj -> C:\Users\ENCHOU\source\repos\CFD_03_Lid-Driven-Cavity\CFD_03_Lid-Driven-Cavity\Debug\CFD_03_Lid-Driven-Cavity.exe
