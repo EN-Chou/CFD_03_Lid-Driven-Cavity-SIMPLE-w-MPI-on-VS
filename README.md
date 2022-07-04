@@ -1,6 +1,5 @@
-# CFD_03_Lid-Driven-Cavity
+# CFD_03_Lid-Driven-Cavity w/ MPI on VS
 
-Instructions:
 1. Installation and Configuration of MPI in Visual Studio:  
   a) Download: https://www.microsoft.com/en-us/download/details.aspx?id=100593 (perhaps)  
   b) cd ./CFD_03_Lid-Driven-Cavity-> Double clicking to open up "CFD_03_Lid-Driven-Cavity.sln"  
